@@ -1,0 +1,13 @@
+1) add element at start
+2) add element at position
+3) add element at end
+--------------------------------
+1) delete element at start
+2) delete element at position
+3) delete element at end
+--------------------------------
+1)print list
+2)reverse list
+--------------------------------
+1)search/check if element exists
+2)replace/update existing element
