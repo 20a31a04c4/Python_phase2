@@ -1,0 +1,11 @@
+Terminology:
+    Root Node
+    Leaf Node
+    Child Node
+    Siblings
+    Intermediate Node
+Traversals:
+    in-order: left--root--right
+    pre-order: root--left--right
+    post-order: left--right--root
+    level-order: level 0--level 1--level2---level n --> done by using Queues pattern 
